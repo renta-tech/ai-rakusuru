@@ -81,6 +81,17 @@ https://ai-rakusuru.pages.dev/posts/ai-sns-posting-efficiency.html
 
 ---
 
+## 投稿8: 学生向け勉強法
+
+レポート作成、暗記、英語学習…AIチャットは「答えを丸写しする道具」じゃなく「壁打ち相手」として使うと勉強効率が上がります。
+
+無料でできる具体的な使い方と注意点をまとめました👇
+https://ai-rakusuru.pages.dev/posts/ai-study-method-for-students.html
+
+#勉強法 #AI活用
+
+---
+
 ## サイト全体の告知(初回・固定ツイート向け)
 
 無料で使えるAIツールの選び方・使い方を発信するブログ「AIラクスル」を始めました🙌
