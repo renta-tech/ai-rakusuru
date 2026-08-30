@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3d5a45"/>
+      <stop offset="100%" stop-color="#2c4433"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#grad)"/>
+  <circle cx="1080" cy="90" r="220" fill="#e7ece6" opacity="0.08"/>
+  <circle cx="1140" cy="590" r="140" fill="#e7ece6" opacity="0.10"/>
+  <rect x="80" y="66" width="88" height="36" rx="4" fill="none" stroke="#e7ece6" stroke-width="1.5" opacity="0.6"/>
+  <text x="98" y="90" font-family="JetBrains Mono, monospace" font-size="15" letter-spacing="2" fill="#e7ece6" opacity="0.9">比較</text>
+  <text x="80" y="281.0" font-family="Zen Kaku Gothic New, sans-serif" font-weight="700" font-size="56" fill="#e7ece6">ChatGPT・Gemini・Claude</text>
+<text x="80" y="349.0" font-family="Zen Kaku Gothic New, sans-serif" font-weight="700" font-size="56" fill="#e7ece6">無料版はどれを選ぶ？</text>
+
+  <text x="80" y="570" font-family="Zen Kaku Gothic New, sans-serif" font-weight="700" font-size="24" fill="#e7ece6" opacity="0.85">AIラクスル</text>
+</svg>
