@@ -302,3 +302,9 @@ footer.site a { color: var(--ink-soft); }
   border-color: var(--accent);
   color: var(--accent-soft);
 }
+
+.ad-banner {
+  text-align: center;
+  margin: 20px 0 8px;
+}
+.ad-banner img { max-width: 100%; height: auto; }
