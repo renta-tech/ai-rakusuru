@@ -59,6 +59,28 @@ https://ai-rakusuru.pages.dev/posts/ai-meeting-notes-summary.html
 
 ---
 
+## 投稿6: AIで副業のアイデア出し
+
+副業に興味はあるけど、何から始めればいいか分からない。
+
+そんなときの「AIチャットへの質問の仕方」を工夫するだけのアイデア整理術をまとめました👇
+https://ai-rakusuru.pages.dev/posts/ai-side-job-idea-generation.html
+
+#副業 #AI活用
+
+---
+
+## 投稿7: SNS運用効率化
+
+SNS運用、毎回ゼロから投稿文を考えるのが地味にしんどい…
+
+AIチャットに下書きを作らせて、Canvaで画像を時短する具体的なやり方をまとめました👇
+https://ai-rakusuru.pages.dev/posts/ai-sns-posting-efficiency.html
+
+#SNS運用 #AI活用
+
+---
+
 ## サイト全体の告知(初回・固定ツイート向け)
 
 無料で使えるAIツールの選び方・使い方を発信するブログ「AIラクスル」を始めました🙌
