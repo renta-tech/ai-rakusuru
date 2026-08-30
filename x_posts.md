@@ -1,6 +1,14 @@
-# X(Twitter)投稿文 - AIラクスル
+# X(Twitter)投稿文 - AIラクスル(リンクなし版)
 
-そのままコピペで使えます。1日1〜2投稿ペースがおすすめです。
+Xのアルゴリズムは、本文に外部リンクを直接貼ると大幅にリーチが下がる(無料アカウントで30〜50%減、場合によってはエンゲージメントがほぼゼロという調査あり)ため、本文からURLを外し「プロフィールのリンクから」に誘導する形に変更しました。
+
+- プロフィールのウェブサイト欄に `https://ai-rakusuru.pages.dev` を設定済みであることが前提です(未設定ならプロフィール編集から設定してください)
+- そのままコピペで使えます
+- 投稿時間の目安: 平日 7-8時／12-13時／20-22時が反応が良い傾向です
+- 投稿後30〜60分の初動が重要なので、届いたリプライには早めに返信してください
+- 予約投稿でまとめて設定してOKです(前回提示したスケジュールのまま使えます)
+
+より効果を狙いたい場合は、本文投稿後に自分でリプライ欄にURLを貼る方法(リーチを保ちつつリンクも案内できる)も有効ですが、その場合は投稿ごとに手作業が1回増えます。
 
 ---
 
@@ -8,8 +16,8 @@
 
 無料版のChatGPT・Gemini・Claude、結局どれを使えばいいのか迷いませんか？
 
-「できること」「制限」「向いてる使い方」の3つの視点で比較しました👇
-https://ai-rakusuru.pages.dev/posts/chatgpt-gemini-claude-free-comparison.html
+「できること」「制限」「向いてる使い方」の3つの視点で比較しました。
+🔗 続きはプロフィールのリンクから読めます
 
 #AI活用 #ChatGPT #生成AI
 
@@ -19,8 +27,8 @@ https://ai-rakusuru.pages.dev/posts/chatgpt-gemini-claude-free-comparison.html
 
 SNS投稿画像、Canvaの無料プランだけで意外と十分作れます。
 
-「どこまで無料でできて、どこから有料が必要か」を整理しました👇
-https://ai-rakusuru.pages.dev/posts/canva-free-beginner-guide.html
+「どこまで無料でできて、どこから有料が必要か」を整理しました。
+🔗 続きはプロフィールのリンクから読めます
 
 #Canva #デザイン初心者
 
@@ -31,7 +39,7 @@ https://ai-rakusuru.pages.dev/posts/canva-free-beginner-guide.html
 文章・画像・作業効率化…目的別に「まずはこれ」と言える無料AIツールをまとめました。
 
 保存版としてどうぞ📌
-https://ai-rakusuru.pages.dev/posts/free-ai-tools-roundup-2026.html
+🔗 続きはプロフィールのリンクから読めます
 
 #AIツール #無料AI
 
@@ -41,8 +49,8 @@ https://ai-rakusuru.pages.dev/posts/free-ai-tools-roundup-2026.html
 
 Canva以外で画像そのものを生成したいときに使える、無料の画像生成AIをまとめました。
 
-商用利用できるかどうかのチェックポイントも解説しています👇
-https://ai-rakusuru.pages.dev/posts/free-image-generation-ai-2026.html
+商用利用できるかどうかのチェックポイントも解説しています。
+🔗 続きはプロフィールのリンクから読めます
 
 #画像生成AI #AIイラスト
 
@@ -52,8 +60,8 @@ https://ai-rakusuru.pages.dev/posts/free-image-generation-ai-2026.html
 
 会議の議事録、読み返すのに時間かかっていませんか？
 
-AIチャットに貼り付けて指示するだけの要約テクニックをまとめました👇
-https://ai-rakusuru.pages.dev/posts/ai-meeting-notes-summary.html
+AIチャットに貼り付けて指示するだけの要約テクニックをまとめました。
+🔗 続きはプロフィールのリンクから読めます
 
 #業務効率化 #AI活用
 
@@ -63,8 +71,8 @@ https://ai-rakusuru.pages.dev/posts/ai-meeting-notes-summary.html
 
 副業に興味はあるけど、何から始めればいいか分からない。
 
-そんなときの「AIチャットへの質問の仕方」を工夫するだけのアイデア整理術をまとめました👇
-https://ai-rakusuru.pages.dev/posts/ai-side-job-idea-generation.html
+そんなときの「AIチャットへの質問の仕方」を工夫するだけのアイデア整理術をまとめました。
+🔗 続きはプロフィールのリンクから読めます
 
 #副業 #AI活用
 
@@ -74,8 +82,8 @@ https://ai-rakusuru.pages.dev/posts/ai-side-job-idea-generation.html
 
 SNS運用、毎回ゼロから投稿文を考えるのが地味にしんどい…
 
-AIチャットに下書きを作らせて、Canvaで画像を時短する具体的なやり方をまとめました👇
-https://ai-rakusuru.pages.dev/posts/ai-sns-posting-efficiency.html
+AIチャットに下書きを作らせて、Canvaで画像を時短する具体的なやり方をまとめました。
+🔗 続きはプロフィールのリンクから読めます
 
 #SNS運用 #AI活用
 
@@ -85,8 +93,8 @@ https://ai-rakusuru.pages.dev/posts/ai-sns-posting-efficiency.html
 
 レポート作成、暗記、英語学習…AIチャットは「答えを丸写しする道具」じゃなく「壁打ち相手」として使うと勉強効率が上がります。
 
-無料でできる具体的な使い方と注意点をまとめました👇
-https://ai-rakusuru.pages.dev/posts/ai-study-method-for-students.html
+無料でできる具体的な使い方と注意点をまとめました。
+🔗 続きはプロフィールのリンクから読めます
 
 #勉強法 #AI活用
 
@@ -96,8 +104,8 @@ https://ai-rakusuru.pages.dev/posts/ai-study-method-for-students.html
 
 ブログやnoteが続かない一番の理由は「白紙のページで固まること」。
 
-構成・下書き・推敲をAIと分担して、執筆のハードルを下げる方法をまとめました👇
-https://ai-rakusuru.pages.dev/posts/ai-blog-note-writing.html
+構成・下書き・推敲をAIと分担して、執筆のハードルを下げる方法をまとめました。
+🔗 続きはプロフィールのリンクから読めます
 
 #note #ブログ初心者
 
@@ -107,8 +115,8 @@ https://ai-rakusuru.pages.dev/posts/ai-blog-note-writing.html
 
 英会話スクールに通う前に、AIチャットだけでどこまで英語学習を効率化できるか試してみませんか。
 
-添削・語彙学習・英会話練習の無料活用法をまとめました👇
-https://ai-rakusuru.pages.dev/posts/ai-english-learning-free.html
+添削・語彙学習・英会話練習の無料活用法をまとめました。
+🔗 続きはプロフィールのリンクから読めます
 
 #英語学習 #AI活用
 
@@ -118,8 +126,8 @@ https://ai-rakusuru.pages.dev/posts/ai-english-learning-free.html
 
 自己PRが言葉にならない…そんなときはAIチャットを壁打ち相手にしてみてください。
 
-ES添削・面接対策まで、無料でできる就活・転職準備をまとめました👇
-https://ai-rakusuru.pages.dev/posts/ai-job-hunting-support.html
+ES添削・面接対策まで、無料でできる就活・転職準備をまとめました。
+🔗 続きはプロフィールのリンクから読めます
 
 #就活 #転職
 
@@ -129,8 +137,8 @@ https://ai-rakusuru.pages.dev/posts/ai-job-hunting-support.html
 
 家計簿アプリを新しく入れなくても、AIチャットに支出をメモするだけで整理・振り返りができます。
 
-無料でできる範囲のやり方と、入力してはいけない情報もまとめました👇
-https://ai-rakusuru.pages.dev/posts/ai-household-budget-management.html
+無料でできる範囲のやり方と、入力してはいけない情報もまとめました。
+🔗 続きはプロフィールのリンクから読めます
 
 #家計管理 #節約
 
@@ -140,8 +148,8 @@ https://ai-rakusuru.pages.dev/posts/ai-household-budget-management.html
 
 フリマ出品やSNS投稿用の写真、背景除去や簡単な補正は無料AIツールでかなりカバーできます。
 
-目的別の使い分け方をまとめました👇
-https://ai-rakusuru.pages.dev/posts/ai-photo-editing-background-removal.html
+目的別の使い分け方をまとめました。
+🔗 続きはプロフィールのリンクから読めます
 
 #写真編集 #フリマ出品
 
@@ -153,6 +161,6 @@ https://ai-rakusuru.pages.dev/posts/ai-photo-editing-background-removal.html
 
 「課金する前に、まず無料でどこまでできるか」を基準に、実際に使って分かったことをまとめています。
 
-https://ai-rakusuru.pages.dev
+🔗 サイトはプロフィールのリンクから
 
 #AI活用 #無料AI #ブログ始めました
