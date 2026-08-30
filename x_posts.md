@@ -92,6 +92,61 @@ https://ai-rakusuru.pages.dev/posts/ai-study-method-for-students.html
 
 ---
 
+## 投稿9: ブログ・note執筆
+
+ブログやnoteが続かない一番の理由は「白紙のページで固まること」。
+
+構成・下書き・推敲をAIと分担して、執筆のハードルを下げる方法をまとめました👇
+https://ai-rakusuru.pages.dev/posts/ai-blog-note-writing.html
+
+#note #ブログ初心者
+
+---
+
+## 投稿10: 英語学習
+
+英会話スクールに通う前に、AIチャットだけでどこまで英語学習を効率化できるか試してみませんか。
+
+添削・語彙学習・英会話練習の無料活用法をまとめました👇
+https://ai-rakusuru.pages.dev/posts/ai-english-learning-free.html
+
+#英語学習 #AI活用
+
+---
+
+## 投稿11: 就活・転職
+
+自己PRが言葉にならない…そんなときはAIチャットを壁打ち相手にしてみてください。
+
+ES添削・面接対策まで、無料でできる就活・転職準備をまとめました👇
+https://ai-rakusuru.pages.dev/posts/ai-job-hunting-support.html
+
+#就活 #転職
+
+---
+
+## 投稿12: 家計簿・支出管理
+
+家計簿アプリを新しく入れなくても、AIチャットに支出をメモするだけで整理・振り返りができます。
+
+無料でできる範囲のやり方と、入力してはいけない情報もまとめました👇
+https://ai-rakusuru.pages.dev/posts/ai-household-budget-management.html
+
+#家計管理 #節約
+
+---
+
+## 投稿13: 写真編集・背景除去
+
+フリマ出品やSNS投稿用の写真、背景除去や簡単な補正は無料AIツールでかなりカバーできます。
+
+目的別の使い分け方をまとめました👇
+https://ai-rakusuru.pages.dev/posts/ai-photo-editing-background-removal.html
+
+#写真編集 #フリマ出品
+
+---
+
 ## サイト全体の告知(初回・固定ツイート向け)
 
 無料で使えるAIツールの選び方・使い方を発信するブログ「AIラクスル」を始めました🙌
